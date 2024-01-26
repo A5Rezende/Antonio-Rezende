@@ -1,6 +1,7 @@
-<h2 align=center>Hello, I'm Bruno!</h2>
+<h2 align=center>Hi, my name is Antônio Rezende</h2>
 
-<p align=center>I'm a 20 years old Brazilian programmer
+<p align=center>I'm a 20-year-old Brazilian software developer and analyst
+  
 <hr>
 <br>
 
