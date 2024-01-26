@@ -13,7 +13,7 @@
 
 <hr>
 <div align=center>
-<img align="center" src="https://profile-counter.glitch.me/%7BBrunoArroyo%7D/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/%7BA5Rezende%7D/count.svg" />
 </div>
 
 <br>
