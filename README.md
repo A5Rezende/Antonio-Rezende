@@ -6,8 +6,8 @@
 <br>
 
 <div align=center>
-<img align=center src="https://github-readme-stats.vercel.app/api?username=BrunoArroyo&show_icons=true&theme=dark" />
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoArroyo&layout=donut-vertical&theme=dark" />
+<img align=center src="https://github-readme-stats.vercel.app/api?username=A5Rezende&show_icons=true&theme=dark" />
+<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=A5Rezende&layout=donut-vertical&theme=dark" />
 </div>
 
 
@@ -18,7 +18,7 @@
 
 <br>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoArroyo&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A5Rezende&custom_title=HISTÓRICO%20DE%20ATIVIDADE&hide_border=true&theme=high-contrast)
 
 <hr>
 
